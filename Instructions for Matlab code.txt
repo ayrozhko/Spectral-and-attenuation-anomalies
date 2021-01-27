@@ -1,0 +1,9 @@
+Supplementary Materials for Manuscript: 
+"On spectral changes of the seismic wave energy by a partially saturated crack due to the hysteresis of liquid bridges phenomenon", submitted to Geophysics
+
+Instructions:
+1) Two files: Main.m and MyFunctions.m needs to be saved in the same folder
+2) Run Main.m file and change input parameters of interest, described below
+3) Corresponding equations numbering corresponds to numbering in the manuscript.
+
+NOTE: Possible error messages!  
